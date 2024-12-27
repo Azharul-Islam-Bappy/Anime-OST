@@ -1,0 +1,47 @@
+[
+  {
+    "clip_link": "https://drive.google.com/file/d/1O3o1zZMv3fBgYoBSY3fZhBXALznLUgHX/view?usp=drivesdk",
+    "options": ["Naruto", "Jujutsu Kaisen", "One Piece", "Solo Leveling"],
+    "correct_ans": "Solo Leveling"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1NepOXoNZUPT0I2m6fqDn-Q5ooD8sDUIr/view?usp=drivesdk",
+    "options": ["Naruto", "Demon Slayer", "One Piece", "Solo Leveling"],
+    "correct_ans": "Demon Slayer"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1NsjaUjtVUz3JCLSTwXft7y7pdl7mFwZx/view?usp=drivesdk",
+    "options": ["Naruto", "Demon Slayer", "One Piece", "Solo Leveling"],
+    "correct_ans": "Naruto"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1MoscyclcbqWtm_ClbG2TfrQpq_2bbiv1/view?usp=drivesdk",
+    "options": ["Naruto", "Demon Slayer", "One Piece", "Classroom Of Elite"],
+    "correct_ans": "Classroom Of Elite"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1NImMCKvrcwtMk5DnCttm1MwCUwYIFnnR/view?usp=drivesdk",
+    "options": ["Attack On Titan", "Demon Slayer", "One Piece", "Classroom Of Elite"],
+    "correct_ans": "Attack On Titan"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1N93yd4SB9iIfS1AMbbBNvQ0tCsbGPIRX/view?usp=drivesdk",
+    "options": ["Attack On Titan", "Demon Slayer", "One Piece", "Jujutsu Kaisen"],
+    "correct_ans": "Jujutsu Kaisen"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1NdtN1M7MU9KXpeT_fC9PP11Uy8MebGGk/view?usp=drivesdk",
+    "options": ["Attack On Titan", "One Punch Man", "One Piece", "Jujutsu Kaisen"],
+    "correct_ans": "One Punch Man"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1Nw0oJv8wK6S-Iiz8paKa-mf1TQ4gMmxl/view?usp=drivesdk",
+    "options": ["Attack On Titan", "Naruto", "One Piece", "Jujutsu Kaisen"],
+    "correct_ans": "Naruto"
+  },
+  {
+    "clip_link": "https://drive.google.com/file/d/1Nw0oJv8wK6S-Iiz8paKa-mf1TQ4gMmxl/view?usp=drivesdk",
+    "options": ["Attack On Titan", "Naruto", "One Piece", "Jujutsu Kaisen"],
+    "correct_ans": "One Piece"
+  }
+]

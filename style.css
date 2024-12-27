@@ -1,0 +1,97 @@
+/* General Styles */
+body {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background: linear-gradient(to bottom, #f7f7f7, #ffffff);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  padding: 20px;
+  background: #ff6347;
+  color: white;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+header p {
+  font-size: 1rem;
+}
+
+/* Main Game Area */
+.game-area {
+  margin: 30px auto;
+  max-width: 400px;
+}
+
+#play-btn {
+  font-size: 2rem;
+  background: #ffdf00;
+  border: none;
+  border-radius: 1.5rem;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.option {
+  font-size: 1rem;
+  padding: 10px;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.option:hover {
+  background: #87ceeb;
+  color: white;
+}
+
+.game-info {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+}
+
+/* Footer */
+footer {
+  margin-top: 30px;
+}
+
+#restart-btn {
+  font-size: 1rem;
+  padding: 5px 10px;
+  background: #ff6347;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#restart-btn:hover {
+  background: #ff4500;
+}
+
+footer a {
+  margin-left: 10px;
+  color: #333;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  transform: text-decoration 0.5s ease;
+}
